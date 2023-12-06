@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;600;700&display=swap');
+
+
+html,
+body,
+#root,
+.app,
+.content {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  font-family: 'Source Code Pro' , sans-serif;
+}
+
+.app{
+  display: flex;
+  position: relative;
+}
+
+.Paging{
+  display: inline;
+  width: fit-content;
+  font-family: "cursive";
+}
+
+
